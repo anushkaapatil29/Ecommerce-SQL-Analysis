@@ -14,8 +14,6 @@ The main purpose of the dashboard is to provide the means through which to visua
 - Charts and graphs
 - Data cleaning
 - Data visualization
-### Dashboard Preview
-
 
 ### Project Dataset
 This project uses a dataset that contains all information regarding the purchases and shipping that occurred. The information in the dataset has been divided up into multiple attributes providing better insight into operational trends and performance graphs.
