@@ -1,36 +1,37 @@
-# Excel-purchase-shipping-dashboard
-Excel dashboard analyzing purchase and shipping data
-### Project overview
-This is a project that uses an interactive dashboard created using Microsoft Excel to analyze purchase and shipping data. 
-The main purpose of the dashboard is to provide the means through which to visualize key performance indicators (KPIs) from both purchase and shipping data as well as identify trends and generate insights using Excel's abilities as a data analysis tool.
+# 🛒 E-commerce SQL Analysis
 
-### Project Goals
-- To turn raw purchase and shipping data into insightful information 
-- To present that information in an easy-to-understand visual format 
-- To learn data analysis and visualization techniques using Excel
-### Tools and Technologies
-- Microsoft Excel
-- Pivot tables
-- Charts and graphs
-- Data cleaning
-- Data visualization
+## 📊 Objective
 
-### Project Dataset
-This project uses a dataset that contains all information regarding the purchases and shipping that occurred. The information in the dataset has been divided up into multiple attributes providing better insight into operational trends and performance graphs.
+Analyze customer purchasing behavior, sales trends, and business performance using SQL.
 
-### Project Files
-- Purchase and shipping dashboard
-- Purchase and shipping dataset
-- Image of the dashboard
+## 🛠 Tools Used
 
-### Outlook
-Interactive dashboard layout
-Data summarization via pivot tables
-Visual insights via charts
+* MySQL
+* Excel (data cleaning)
 
-### Learning
-During the development of this project, I have enhanced my skills in:
-- Data cleaning and preparation
-- Data visualization
-- Dashboard development
-- Generating insights from data
+## 📁 Dataset
+
+Customer shopping dataset including transactions, products, and user behavior.
+
+## 🔍 Key Analysis Performed
+
+* Revenue by category and location
+* Customer segmentation based on purchase history
+* Shipping performance analysis
+* Payment method trends
+* Monthly and seasonal sales trends
+
+## 📈 Key Insights
+
+* Clothing category generates the highest revenue
+* A small group of high-value customers contributes significantly to sales
+* Discounts influence purchasing behavior
+* Certain locations dominate overall sales
+
+## 📸 Screenshots
+
+(Include query outputs here)
+
+## 💡 Conclusion
+
+This project demonstrates strong SQL skills applied to real-world e-commerce data and business analysis.
