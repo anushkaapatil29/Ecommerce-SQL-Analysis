@@ -29,8 +29,9 @@ Customer shopping dataset including transactions, products, and user behavior.
 * Certain locations dominate overall sales
 
 ## 📸 Screenshots
+<img width="1349" height="441" alt="image" src="https://github.com/user-attachments/assets/20e06ddd-675f-46e3-b240-56e72b1c615f" />
 
-(Include query outputs here)
+
 
 ## 💡 Conclusion
 
