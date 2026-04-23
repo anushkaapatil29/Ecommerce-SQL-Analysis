@@ -34,20 +34,18 @@ Monthly and seasonal sales trends
 
 ## 🧠 Sample SQL Queries
 
-**1. Revenue by Category**
+1. Revenue by Category
 SELECT category, SUM(revenue) AS total_revenue
 FROM sales
 GROUP BY category
 ORDER BY total_revenue DESC;
-
-**2. Top Locations by Sales**
+2. Top Locations by Sales
 SELECT location, SUM(revenue) AS total_sales
 FROM sales
 GROUP BY location
 ORDER BY total_sales DESC
 LIMIT 5;
-
-## 3. Monthly Sales Trend
+3. Monthly Sales Trend
 SELECT MONTH(order_date) AS month, SUM(revenue) AS monthly_sales
 FROM sales
 GROUP BY month
