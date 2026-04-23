@@ -19,11 +19,38 @@ Payment methods
 Shipping details
 
 ## 📂 Project Structure
+```
 ecommerce-sql-analysis/
-│── dataset/
-│── sql_queries/
-│── images/
-│── README.md
+│
+├── dataset/
+│   ├── ecommerce_raw_data.csv
+│   └── ecommerce_cleaned_data.csv
+│
+├── sql_queries/
+│   ├── data_cleaning.sql
+│   ├── exploratory_analysis.sql
+│   ├── business_queries.sql
+│   └── views.sql
+│
+├── images/
+│   ├── total_records.png
+│   ├── customer_segmentation.png
+│   ├── date_conversion.png
+│   ├── discount_impact.png
+│   ├── monthly_sales_trend.png
+│   ├── most_popular_product.png
+│   ├── payment_method_analysis.png
+│   ├── rating_analysis.png
+│   ├── revenue_by_category.png
+│   ├── shipping_analysis.png
+│   ├── top_location_sales.png
+│   ├── total_revenue.png
+│   ├── table_view.png
+│   ├── orders_view.png
+│   └── sample_data.png
+│
+└── README.md
+```
 
 ## 🔍 Key Analysis Performed
 Revenue analysis by product category and location
@@ -148,6 +175,12 @@ Shows a limited subset of data for quick inspection and validation.
 ![Sample Data](https://github.com/user-attachments/assets/160d9fed-013c-45b5-b16f-0f623249af5e)
 
 ---
+
+### Dashboard
+<img width="1393" height="625" alt="Dashboard" src="https://github.com/user-attachments/assets/d834c141-15e7-4d37-900f-03b31942ac08" />
+
+---
+
 ## 💡 Conclusion
 This project demonstrates how SQL can be effectively used to analyze e-commerce data and generate actionable business insights.
 The findings can help businesses:
